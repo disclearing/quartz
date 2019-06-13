@@ -1,0 +1,6 @@
+main: com.minexd.quartz.Quartz
+name: Quartz
+author: joeleoli
+version: ${project.version}
+description: ${project.description}
+depend: [ProtocolLib]

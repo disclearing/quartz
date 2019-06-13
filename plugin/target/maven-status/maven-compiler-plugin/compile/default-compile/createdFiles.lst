@@ -1,0 +1,12 @@
+com\minexd\quartz\network\NetworkListener.class
+com\minexd\quartz\task\UpdateTask.class
+com\minexd\quartz\priority\Priority.class
+com\minexd\quartz\util\BungeeUtil.class
+com\minexd\quartz\Quartz.class
+com\minexd\quartz\task\ReminderTask.class
+com\minexd\quartz\Quartz$1.class
+com\minexd\quartz\command\LeaveQueueCommand.class
+com\minexd\quartz\command\JoinQueueCommand.class
+com\minexd\quartz\priority\impl\DefaultPriority.class
+com\minexd\quartz\Locale.class
+com\minexd\quartz\command\adapter\QueueTypeAdapter.class
